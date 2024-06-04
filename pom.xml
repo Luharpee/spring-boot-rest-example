@@ -21,9 +21,9 @@
 
 	<distributionManagement>
 		<snapshotRepository>
-			<id>snapshots</id>
-			<name>a0mawxd7rmaps-artifactory-primary-0-snapshots</name>
-			<url>https://rahjfrog.jfrog.io/artifactory/maven-pen-repo-libs-snapshot</url>
+		  <id>snapshots</id>
+          <name>maven-pen-repo-libs-snapshot</name>
+          <url>https://rahjfrog.jfrog.io/artifactory/maven-pen-repo-libs-snapshot</url>			
 		</snapshotRepository>
 	</distributionManagement>
 
